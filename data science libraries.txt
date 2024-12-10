@@ -1,18 +1,20 @@
-pip install opencv-python
-pip install beautifulsoup4 lxml
-pip install gecko
-pip install keras
-pip install matplotlib
-pip install numpy
-pip install pandas
-pip install plotly
-pip install torch
-pip install scikit-learn
-pip install scipy
-pip install seaborn
-pip install statsmodels
-pip install tclab
-pip install tensorflow
-pip install xgboost
-pip install empiricaldist
-pip install pyexcel
+opencv-python
+beautifulsoup4 
+lxml
+gecko
+keras
+matplotlib
+numpy
+pandas
+plotly
+torch
+scikit-learn
+scipy
+seaborn
+statsmodels
+tclab
+tensorflow
+xgboost
+empiricaldist
+pyexcel
+xlrd
