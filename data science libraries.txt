@@ -25,3 +25,9 @@ optuna
 scikit-optimize
 mord
 pyPDF2
+pdfminer.six
+tabula-py
+pymupdf
+pdfplumber
+TextBlob
+NLTK
