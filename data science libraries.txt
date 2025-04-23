@@ -36,3 +36,5 @@ xlrd
 pygments
 flask
 albumentations
+scikeras
+
